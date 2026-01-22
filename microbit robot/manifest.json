@@ -1,0 +1,17 @@
+{
+  "name": "Microbit Excavator Control",
+  "short_name": "Excavator",
+  "description": "Control your micro:bit excavator robot via Bluetooth",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#E94E0F",
+  "theme_color": "#E94E0F",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "img_page/favicon-96x96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ]
+}
